@@ -9,7 +9,7 @@ import {getFirestore} from "firebase/firestore"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAYtMjZae_SpM-vkXta5kb-JVQBVQWWAWE",
+  apiKey: "A*****************VQWWAWE",
   authDomain: "chatgpt-clone-sohail.firebaseapp.com",
   projectId: "chatgpt-clone-sohail",
   storageBucket: "chatgpt-clone-sohail.appspot.com",
