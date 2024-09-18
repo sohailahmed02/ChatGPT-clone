@@ -22,6 +22,7 @@ Each chat can utilize user-specific files to enhance responses, providing a more
     <img src="images/chat.jpg"/>
 <p>
 
+
 ## <a name=""></a>🎉 code interpreter file generation
 <p align="center">
     <img src="images/chat2.jpg"/>
@@ -31,3 +32,25 @@ Each chat can utilize user-specific files to enhance responses, providing a more
 <p align="center">
     <img src="images/chat3.jpg"/>
 <p>
+
+ ### 2.  To run
+ - Clone the repository:
+ ```bash
+ git clone https://github.com/sohailahmed02/chatgpt-clone.git
+ ```
+- start fastapi uvicorn server:
+```bash
+cd backend
+```
+
+```bash
+uvicorn main:app --reload
+```
+- start next js frontend:
+```bash
+cd frontend
+```
+
+```bash
+npm run dev
+```
